@@ -3,13 +3,12 @@
 <!--
 **Bozelli9/Bozelli9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Olá! Eu sou [Seu Nome] 👋
 
-## 🚀 Estatísticas do GitHub
+ 🚀 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bozelli9&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-## 🖥️ Linguagens Mais Usadas
+ 🖥️ Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozell9&layout=compact)
 
-## 📈 Atividade no GitHub
+📈 Atividade no GitHub
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bozelli9&theme=github)
