@@ -11,4 +11,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozelli9&layout=compact)
 
 📈 Atividade no GitHub  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bozelli9&theme=github)
+![GitHub Contributions](https://github-contribs.vercel.app/api?username=Bozelli9)
+
