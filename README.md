@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bozelli9&show_icons=true&count_private=true&hide=prs&theme=radical)
 
  🖥️ Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozell9&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozelli9&layout=compact)
 
 📈 Atividade no GitHub
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bozelli9&theme=github)
